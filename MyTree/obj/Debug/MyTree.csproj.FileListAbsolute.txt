@@ -1,0 +1,6 @@
+C:\Users\Руслан\Desktop\MyTree-master\MyTree-master\MyTree\MyTree\bin\Debug\MyTree.XML
+C:\Users\Руслан\Desktop\MyTree-master\MyTree-master\MyTree\MyTree\bin\Debug\MyTree.dll
+C:\Users\Руслан\Desktop\MyTree-master\MyTree-master\MyTree\MyTree\bin\Debug\MyTree.pdb
+C:\Users\Руслан\Desktop\MyTree-master\MyTree-master\MyTree\MyTree\obj\Debug\MyTree.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Desktop\MyTree-master\MyTree-master\MyTree\MyTree\obj\Debug\MyTree.dll
+C:\Users\Руслан\Desktop\MyTree-master\MyTree-master\MyTree\MyTree\obj\Debug\MyTree.pdb

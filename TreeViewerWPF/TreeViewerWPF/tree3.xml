@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Node xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Number>1</Number>
+  <Left>
+	<Number>11</Number>
+	<Left>
+		<Number>111</Number>
+		<Left>
+			<Number>1111</Number>
+		</Left>
+	</Left>
+  </Left>
+  <Right>
+	<Number>12</Number>
+  </Right>
+</Node>

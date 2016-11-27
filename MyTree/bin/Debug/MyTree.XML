@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyTree</name>
+    </assembly>
+    <members>
+        <member name="T:MyTree.TreeNode`1">
+            <summary>
+            Класс представляет элемент дерева.
+            </summary>
+            <typeparam name="TypeNode">Любой тип</typeparam>
+        </member>
+        <member name="M:MyTree.TreeNode`1.#ctor(`0)">
+            <summary>
+            Конструктор, инициализирующий элемент переданным значением.
+            </summary>
+            <param name="value">значение элемента</param>
+        </member>
+        <member name="P:MyTree.TreeNode`1.Children">
+            <summary>
+            Коллекция потомков элемента.
+            </summary>
+        </member>
+        <member name="P:MyTree.TreeNode`1.Parent">
+            <summary>
+            Представляет родительский элемент.
+            </summary>
+        </member>
+        <member name="P:MyTree.TreeNode`1.Value">
+            <summary>
+            Представляет значение элемента.
+            </summary>
+        </member>
+        <member name="T:MyTree.MyTree`1">
+            <summary>
+            Представляет дерево
+            </summary>
+            <typeparam name="T">Любой тип</typeparam>
+        </member>
+        <member name="P:MyTree.MyTree`1.Head">
+            <summary>
+            Корень дерева
+            </summary>
+        </member>
+        <member name="P:MyTree.MyTree`1.Length">
+             <summary>
+            Количество элементов дерева
+             </summary>
+        </member>
+        <member name="M:MyTree.MyTree`1.Add(MyTree.TreeNode{`0},`0)">
+            <summary>
+            Добавление нового элемента дерева
+            </summary>
+            <param name="value">значение элемента</param>
+            <param name="parent">родительский элемент или NULL, если добавляется корень дерева</param>
+        </member>
+        <member name="M:MyTree.MyTree`1.Remove(MyTree.TreeNode{`0})">
+            <summary>
+            Удаление элемента
+            </summary>
+            <param name="removed_item">удаляемый элемент</param>
+        </member>
+        <member name="M:MyTree.MyTree`1.Clear">
+            <summary>
+            Очистка дерева
+            </summary>
+        </member>
+    </members>
+</doc>
